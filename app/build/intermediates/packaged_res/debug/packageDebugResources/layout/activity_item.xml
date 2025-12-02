@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="12dp"
+    app:cardCornerRadius="12dp"
+    app:cardElevation="0dp"
+    android:backgroundTint="@color/item_purple_bg">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:id="@+id/main">
+
+        <!-- Icon Bulb -->
+        <ImageView
+            android:id="@+id/imageViewBulbIcon"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:src="@drawable/ic_bulb_idea"
+            android:contentDescription="@string/idea_icon"
+            app:tint="@color/icon_purple"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <!-- Activity Name -->
+        <TextView
+            android:id="@+id/textViewActivityName"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/idea"
+            android:textSize="16sp"
+            android:textColor="@color/text_dark"
+            android:textStyle="bold"
+            android:layout_marginStart="16dp"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toEndOf="@id/imageViewBulbIcon"
+            app:layout_constraintEnd_toStartOf="@id/imageViewArrowRight" />
+
+        <!-- Task Count -->
+        <TextView
+            android:id="@+id/textViewTaskCount"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/default_task_count"
+            android:textSize="12sp"
+            android:textColor="@color/text_gray"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="4dp"
+            app:layout_constraintTop_toBottomOf="@id/textViewActivityName"
+            app:layout_constraintStart_toEndOf="@id/imageViewBulbIcon"
+            app:layout_constraintEnd_toStartOf="@id/imageViewArrowRight" />
+
+        <!-- Arrow Right -->
+        <ImageView
+            android:id="@+id/imageViewArrowRight"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/ic_arrow_right"
+            android:contentDescription="@string/arrow_right"
+            app:tint="@color/icon_purple"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.cardview.widget.CardView>

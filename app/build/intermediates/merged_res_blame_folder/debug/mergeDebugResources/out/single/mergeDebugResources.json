@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_background_gradient.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\background_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_ic_arrow_right.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\ic_arrow_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_social_button_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\social_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\layout_activity_form_input.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\layout\\activity_form_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_button_white_rounded.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\button_white_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_ic_calender.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\ic_calender.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\menu_task_item_menu.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\menu\\task_item_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_bakcground.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\bakcground.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\layout_activity_edit_task.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\layout\\activity_edit_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_ic_alarm.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\ic_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_edit_text_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\edit_text_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_ic_notification.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\ic_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_ic_time.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\ic_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_ic_splash_logo.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\ic_splash_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_ic_facebook.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\ic_facebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_ic_menu.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\ic_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_date_box_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\date_box_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_ic_google.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\ic_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_ic_bulb_idea.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\ic_bulb_idea.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_data_item.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\data_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_ic_history.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\ic_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_ic_twitter.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\ic_twitter.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_date_item_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\date_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_button_add_new.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\button_add_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_button_primary.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\button_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_gradient_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\gradient_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\layout_activity_item.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\layout\\activity_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_edittext_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\edittext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\layout_item_activity.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\layout\\item_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_ic_grid_menu.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\ic_grid_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_ic_calendar.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\ic_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\layout_activity_item_task.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\layout\\activity_item_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\layout_activity_add_task.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\layout\\activity_add_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_ic_story.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\ic_story.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.notes_app-debug-42:/layout_activity_main.xml.flat",
+        "source": "com.example.notes_app-main-44:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-debug-42:\\layout_item_task.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\8.13\\com.example.notes_app-main-44:\\layout\\item_task.xml"
+    }
+]
