@@ -94,28 +94,7 @@ File build akan tersedia di folder `dist` atau `build`.
    - Gunakan search bar di bagian atas
    - Ketik kata kunci untuk mencari catatan
 
-## 📂 Struktur Proyek
 
-```
-note-app/
-├── public/
-│   ├── index.html
-│   └── favicon.ico
-├── src/
-│   ├── components/
-│   │   ├── NoteList.js
-│   │   ├── NoteItem.js
-│   │   └── NoteEditor.js
-│   ├── utils/
-│   │   └── storage.js
-│   ├── styles/
-│   │   └── main.css
-│   ├── App.js
-│   └── index.js
-├── package.json
-├── README.md
-└── .gitignore
-```
 
 ## 🤝 Kontribusi
 
